@@ -1,0 +1,5 @@
+{
+  "version": "1.0.6",
+  "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/xiaomao-canvas-setup.exe",
+  "notes": "修复全屏输入界面点击生成后未自动退出的问题"
+}
