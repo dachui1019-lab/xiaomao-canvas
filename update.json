@@ -1,6 +1,1 @@
-{
-  "version": "1.0.8",
-  "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/xiaomao-canvas-setup.exe",
-  "notes": "修复预览下载后未打开素材文件夹；修复资产库分组解组素材丢失；修复全屏输入生成后不退出。"
-}
-
+{"version": "1.0.10", "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/xiaomao-canvas-setup.exe", "mirrors": [...ghproxy / gitclone 两个国内加速源...], "notes": "修复下载素材后无法弹出文件夹；恢复设置页版本号显示；取消下载时增加明确提示。"}
