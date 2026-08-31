@@ -1,1 +1,6 @@
-{"version": "1.0.10", "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/xiaomao-canvas-setup.exe", "mirrors": [...ghproxy / gitclone 两个国内加速源...], "notes": "修复下载素材后无法弹出文件夹；恢复设置页版本号显示；取消下载时增加明确提示。"}
+{
+  "版本": "1.0.10",
+  "网址": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/xiaomao-canvas-setup.exe",
+  "镜子": ["ghproxy / gitclone 两个国内加速源..."],
+  "笔记": "修复下载素材后无法弹出文件夹；恢复设置页版本号显示；取消下载时增加明确提示。"
+}
