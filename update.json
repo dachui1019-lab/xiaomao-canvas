@@ -1,9 +1,15 @@
 {
   "version": "1.0.13",
-  "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/-.-1.0.13.exe",
+  "url": "https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/\u2012.\u20121.0.13.exe",
   "mirrors": [
-    {"label": "ghproxy 镜像", "url": "https://ghproxy.net/https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/-.-1.0.13.exe"},
-    {"label": "gitclone 镜像", "url": "https://gitclone.com/github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/-.-1.0.13.exe"}
+    {
+      "label": "ghproxy 镜像（国内加速）",
+      "url": "https://ghproxy.net/https://github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/\u2012.\u20121.0.13.exe"
+    },
+    {
+      "label": "gitclone 镜像",
+      "url": "https://gitclone.com/github.com/dachui1019-lab/xiaomao-canvas/releases/latest/download/\u2012.\u20121.0.13.exe"
+    }
   ],
-  "notes": "修复下载报错的问题"
+  "notes": "修复下载报错的问题。"
 }
